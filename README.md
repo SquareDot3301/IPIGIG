@@ -13,6 +13,7 @@ With IPIGIG you can :
 > Grab the local and public IP of someone
 > Grab the OS of someone
 > Grab the architecture of the PC of someone
+> Grab the hostname of the PC of someone
 
 ---
 
