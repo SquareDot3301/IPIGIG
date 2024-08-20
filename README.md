@@ -39,7 +39,7 @@ go get github.com/gtuk/discordwebhook
 3. Modify the webhook URL
 
 ```
-main.go (line 56)
+main.go (line 50)
 var url = "Your webhook URL"
 ```
 
